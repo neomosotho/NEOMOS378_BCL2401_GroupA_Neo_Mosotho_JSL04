@@ -1,31 +1,28 @@
 # [JSL04] Submission: Monster Ternary Operator
 
-## **6.15 CodeSpace Pets Instagram Profile Project**
 
 ### Overview
 
 In this project, I used ternary operators to make decisions based on various scenarios involving Monster Energy drinks.
 
+
 ### Reflections
 
-#### Areas of Mastery
+- **Ternary Operators**: The only operator that takes three operands: a condition followed by a question mark (?), then an expression to execute if the condition is truthy followed by a colon (:), and finally the expression to execute if the condition is falsy.
 
-- **CSS Layout Techniques**: I feel confident in using Flexbox and Grid to structure web page elements. Implementing these techniques to align and distribute content was a highlight of my learning.
-- **Responsive Design**: I successfully implemented media queries to ensure the page looks good on both desktop and mobile screens.
-- **Styling Elements**: I was able to style the profile image, user information, and gallery section effectively, closely resembling an Instagram profile.
 
 #### Challenges Faced
 
-- **Responsive Design for Smaller Screens**: Adjusting layouts and font sizes for smaller screens was challenging. I had to experiment with different approaches to ensure the design remained consistent and functional.
-- **Hover and Focus Effects**: Implementing interactive elements like hover and focus effects required more practice and research to get them right.
+-None
+-This  project was straight forward. This was because of the resources I used to familiarise myself with ternary operators.
+
 
 #### Areas for Improvement
 
-- **Advanced CSS Properties**: I want to explore more advanced CSS properties and animations to enhance the user experience.
-- **Code Optimization**: While my code achieved the desired outcome, I believe I can improve its efficiency and readability.
-- **Creative Design Choices**: I adhered closely to the Instagram layout for practice but would like to experiment with more creative design choices in future projects.
+- **Ternary Operators**: There are different ways to approach ternary operators. I am trying to improve my skills in that aspect.
+
 
 #### Overall Learning Experience
 
-This project was an invaluable hands-on experience in applying CSS layout techniques. It helped solidify my understanding of CSS and its practical applications in web development. I look forward to building on these skills in future projects.
+This project was an invaluable hands-on experience in applying ternary operators. It helped solidify my understanding of ternary operators. I look forward to building on these skills in future projects.
 

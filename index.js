@@ -6,7 +6,7 @@
 
 let userPreference = ''; // Possible values: 'Regular', 'Sugar-free', or undefined
 let preference = userPreference === 'sugar-free'? console.log('sugar-free') : console.log('regular');
-console.log(`${preference}`)
+
 
 // #### Challenge 2: Stock Check
 // You have a variable that tracks the number of Monster Energy cans left in the fridge. 
@@ -38,7 +38,7 @@ currentTemp <= 5 ? console.log('Chilled to perfection!') : console.log('Needs a 
 
 // Define the current hour in 24-hour format
 let currentHour = ''; 
-currentHour => 7 && currentHour <= 23 ? console.log('Unleash the beast!') : console.log('Better stick to water');
+currentHour > 7 && currentHour <= 23 ? console.log('Unleash the beast!') : console.log('Better stick to water');
 
 // Write your code below this line to determine if it's a good idea to have a Monster Energy drink based on the current hour
 // If it's between 7am and midnight (24-hour format), print "Unleash the beast!"
