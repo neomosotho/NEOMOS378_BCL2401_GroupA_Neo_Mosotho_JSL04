@@ -1,36 +1,31 @@
 # [JSL04] Submission: Monster Ternary Operator
 
-You will:
-1. Use the provided Starter Code Repository.
-2. Code your solution.
-3. Commit changes to your GitHub repository.
-4. Submit the GitHub Repository Link to the LMS [JSL04] Submission Project Tab.
+## **6.15 CodeSpace Pets Instagram Profile Project**
 
-Check out the practice challenges on Scrimba here: https://scrimba.com/playlist/p9bvd5QH3
+### Overview
 
-**Challenge Scenario:** In this coding exercise, you will work with the Monster Ternary Operator. You'll use ternary operators to make decisions based on various scenarios involving Monster Energy drinks.
+In this project, I used ternary operators to make decisions based on various scenarios involving Monster Energy drinks.
 
-In each of these challenges, the ternary operator is used to decide between two options based on a condition, demonstrating its utility for concise conditional logic. Remember that while ternaries can make the code more succinct, they should be used judiciously to maintain readability, especially for more complex conditions.
+### Reflections
 
-## What You Need to Do:
+#### Areas of Mastery
 
-1. Clone the provided Starter Code Repository to your local development environment (e.g., VSCode): https://github.com/CodeSpace-Academy/Module_4_StudentNo_Classcode_Group_Name-Surname_JSL04 
-2. Open the cloned project in your code editor.
-3. Code your solution for each of the challenges as per the provided instructions.
-4. Commit your changes to your local Git repository with meaningful commit messages.
-5. Push your local Git repository to your GitHub account.
-6. Verify that the changes have been successfully pushed to your GitHub repository.
+- **CSS Layout Techniques**: I feel confident in using Flexbox and Grid to structure web page elements. Implementing these techniques to align and distribute content was a highlight of my learning.
+- **Responsive Design**: I successfully implemented media queries to ensure the page looks good on both desktop and mobile screens.
+- **Styling Elements**: I was able to style the profile image, user information, and gallery section effectively, closely resembling an Instagram profile.
 
-## What You Need to Include:
+#### Challenges Faced
 
-1. Ensure that your code includes the necessary modifications to meet the challenge requirements.
-2. Your GitHub repository should contain the updated code files.
+- **Responsive Design for Smaller Screens**: Adjusting layouts and font sizes for smaller screens was challenging. I had to experiment with different approaches to ensure the design remained consistent and functional.
+- **Hover and Focus Effects**: Implementing interactive elements like hover and focus effects required more practice and research to get them right.
 
-## How We'll Assess Your Work:
+#### Areas for Improvement
 
-1. We will review your GitHub repository to ensure that it contains the updated code files.
-2. We will assess the modifications made to the code to verify that they effectively meet the challenge requirements.
-3. Successful completion of the project will involve implementing the ternary logic as per the provided instructions.
-4. We will consider the commit history and meaningful commit messages to evaluate your coding process.
+- **Advanced CSS Properties**: I want to explore more advanced CSS properties and animations to enhance the user experience.
+- **Code Optimization**: While my code achieved the desired outcome, I believe I can improve its efficiency and readability.
+- **Creative Design Choices**: I adhered closely to the Instagram layout for practice but would like to experiment with more creative design choices in future projects.
 
-Please follow the provided steps and guidelines to complete the Monster Ternary Operator challenge effectively. Your ability to use ternary operators for conditional logic is a valuable skill, and we look forward to reviewing your work.
+#### Overall Learning Experience
+
+This project was an invaluable hands-on experience in applying CSS layout techniques. It helped solidify my understanding of CSS and its practical applications in web development. I look forward to building on these skills in future projects.
+
